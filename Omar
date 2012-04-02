@@ -1,3 +1,6 @@
 dsxsdvsdv
 vsdsdcvF
 Githup is working Now !
+There is only one Git Directory per project (as opposed to one per subdirectory like with SVN or CVS), and tha
+directory is (by default, though not necessarily) '.git' in the root of your project. If you look at the contents of tha
+directory, you can see all of your important files:
